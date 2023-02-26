@@ -1,4 +1,4 @@
 # Neural-Geometry-Reconstruction
 Hash Encoding, Point Cloud Reconstruction, Multi-view Reconstruction
-![](figs/teaser-final.pdf)
+![](figs/teaser-final.png)
 coming soon!
