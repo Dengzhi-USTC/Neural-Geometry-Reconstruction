@@ -5,7 +5,7 @@ Authors: Zhi Deng, Haiyao Xiao, Yining Lang, Hao Feng, [Juyong Zhang](http://sta
 ![](figs/teaser-final.png)
 
 ### BibTex
-    @inproceedings{dengzhi2021robust, 
+    @inproceedings{dengzhi2023NGR, 
     title={Multi-scale Hash Encoding based Neural Geometry Representation}, 
     author={Zhi Deng, Haiyao Xiao, Yining Lang, Hao Feng and Juyong Zhang},
     journal={Computational Visual Media Journal},
